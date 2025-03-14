@@ -89,13 +89,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibelkh&theme=nightowl&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
 
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sohaib-el-khatab-32b4a5247/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:sohaib.el.khatab@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-Gmail-red?style=for-the-badge&logo=gmail" alt="Email Me" />
-  </a>
-</div>
