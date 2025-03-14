@@ -20,8 +20,6 @@
 
 ## 🛠️ Skills & Technologies
 
-<br>
-  
 <details open>
   <summary><b>Mobile Development</b></summary>
   <p align="left">
