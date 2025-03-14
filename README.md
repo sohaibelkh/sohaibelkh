@@ -86,6 +86,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaibelkh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="170" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibelkh&theme=nightowl&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
 
