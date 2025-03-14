@@ -8,7 +8,6 @@
     <a href="mailto:sohaib.el.khatab@gmail.com"><img src="https://img.shields.io/badge/Email-sohaib.el.khatab%40gmail.com-blue?style=flat-square&logo=gmail"></a>
     <a href="https://www.linkedin.com/in/sohaib-el-khatab-32b4a5247/"><img src="https://img.shields.io/badge/LinkedIn-sohaib--khatab-blue?style=flat-square&logo=linkedin"></a>
     <a href="https://github.com/sohaibelkh"><img src="https://img.shields.io/badge/GitHub-sohaibelkh-blue?style=flat-square&logo=github"></a>
-    <a href="tel:+212637808740"><img src="https://img.shields.io/badge/Phone-%2B212_6_37_80_87_40-blue?style=flat-square&logo=whatsapp"></a>
   </p>
   
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sohaibelkh.sohaibelkh&left_color=mediumpurple&left_text=Profile%20views" alt="Profile Views" />
