@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-> *Passionate Flutter Developer with proven experience delivering freelance mobile applications across diverse domains. Skilled in Clean Architecture, Bloc state management, and Firebase integration. Committed to creating efficient, scalable, and visually appealing solutions while following mobile development best practices and strong UI/UX principles.*
+> *Experienced Mobile Developer with a proven track record of delivering high-quality applications across various platforms and industries. Proficient in modern architecture patterns, efficient state management, and cloud service integration. Dedicated to building robust, scalable, and user-friendly solutions while adhering to industry best practices and design principles.*
 
 ## 🛠️ Skills & Technologies
 
