@@ -52,6 +52,7 @@
 
 <details open>
   <summary><b>Databases & Backend</b></summary>
+  <br>
   <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" /></a>
     <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
