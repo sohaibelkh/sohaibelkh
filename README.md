@@ -2,7 +2,7 @@
   
   # Hi there, I'm Sohaib EL KHATAB 👋
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Specialist;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Specialist" alt="Typing SVG" />
   
   <p>
     <a href="mailto:sohaib.el.khatab@gmail.com"><img src="https://img.shields.io/badge/Email-sohaib.el.khatab%40gmail.com-blue?style=flat-square&logo=gmail"></a>
