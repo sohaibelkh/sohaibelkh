@@ -26,7 +26,7 @@
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /></a>
   <a href="#"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=bloc&logoColor=white" alt="State Managment" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/State%20Management-000000?style=for-the-badge&logo=state-management&logoColor=white" alt="State Management" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logo=clean-architecture&logoColor=white" alt="Clean Architecture" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MVVM-5C2D91?style=for-the-badge&logo=mvvm&logoColor=white" alt="MVVM" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
@@ -34,6 +34,7 @@
   <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
 </p>
+
 </details>
 
 <details>
