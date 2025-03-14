@@ -2,17 +2,11 @@
 
 ###
 
-<h3 align="center">Mobile Apps Developer</h3>
+<h3 align="center">Mobile Apps Developer 📱</h3>
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sohaibelkh.sohaibelkh&left_color=mediumpurple&left_text=Profile%20views"  />
-</div>
-
-###
-
-<h3 align="left">Languages and Tools :</h3>
+<h2 align="left">👨‍💻 Languages and Tools :</h2>
 
 ###
 
@@ -56,7 +50,7 @@
 
 ###
 
-<h3 align="left">Connect with me :</h3>
+<h2 align="left">🌐 Connect with me :</h2>
 
 ###
 
@@ -71,8 +65,18 @@
 
 ###
 
+<h2 align="left">📊 GitHub Stats :</h2>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaibelkh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sohaibelkh.sohaibelkh&left_color=mediumpurple&left_text=Profile%20views"  />
 </div>
 
 ###
