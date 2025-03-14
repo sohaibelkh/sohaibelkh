@@ -18,12 +18,6 @@
 
 > *Passionate Flutter Developer with proven experience delivering freelance mobile applications across diverse domains. Skilled in Clean Architecture, Bloc state management, and Firebase integration. Committed to creating efficient, scalable, and visually appealing solutions while following mobile development best practices and strong UI/UX principles.*
 
-- 🔭 I'm currently working on **Virtual Phone Number Application (Numify)**
-- 🌱 I'm currently learning **Advanced State Management Techniques**
-- 👨‍🎓 Pursuing a **Degree in Software Engineering** (2025)
-- 💬 Ask me about **Flutter, Clean Architecture, Mobile Development**
-- ⚡ Fun fact: I love **Football, Music, and Video Games**
-
 ## 🛠️ Skills & Technologies
 
 <details open>
@@ -85,65 +79,6 @@
   <a href="#"><img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></a>
 </p>
 </details>
-
-## 💼 Professional Experience
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Bienestar360-Mental%20Health%20App-blueviolet?style=for-the-badge" alt="Bienestar360" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Numify-Virtual%20Phone%20Number%20App-blue?style=for-the-badge" alt="Numify" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>Mental health app for depression support</li>
-          <li>Clean Architecture & Dependency Injection</li>
-          <li>REST API & SQLite integration</li>
-          <li>Bloc pattern for state management</li>
-          <li><i>Barcelona, Spain (09/2024 - 12/2024)</i></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Virtual phone number app for calls/SMS</li>
-          <li>Real-time communication features</li>
-          <li>Integration with phone services</li>
-          <li>Bloc pattern for state management</li>
-          <li><i>Tokyo, Japan (03/2024 - Present)</i></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🚀 Projects
-
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohaibelkh&repo=connexus&theme=nightowl" alt="Connexus Project" />
-  </a>
-</div>
-
-### CONNEXUS - Social Media Application
-> *08/2023 - 12/2023*
-
-- Comprehensive social media platform inspired by Facebook
-- Clean Architecture & Dependency Injection
-- Firebase Authentication, Firestore & Storage
-- Bloc pattern for state management
-
-## 🎓 Education
-
-<div align="center">
-  <img src="https://img.shields.io/badge/University%20Abdelmalek%20Essaadi-Software%20Engineering-blue?style=for-the-badge" alt="University" />
-  <p><i>Bachelor's in Software Engineering and Application Development (2025)</i></p>
-  <p>Faculty of Sciences and Techniques - Tangier, Morocco</p>
-</div>
 
 ## 🌐 Languages
 
