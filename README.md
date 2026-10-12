@@ -171,52 +171,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ SOC Copilot — AI-Assisted Security Investigation · *Synertic*
-AI copilot that helps SOC analysts investigate compromised Linux hosts: event correlation, **MITRE ATT&CK** mapping and prioritized remediation plans.
-- Dual-model architecture: a **local LLM** handles raw data, the **cloud LLM** only sees sanitized context — a trust boundary enforced in code
-- No automatic execution: human approval, deny-by-default allowlist and synchronous audit logging for every remediation step
-- Multi-analyst deployment behind **SSO (OIDC)**, with anti-hallucination guardrails, prompt-injection filtering and ~490 test assertions
-
-`Node.js` `LLM Agents` `Linux` `OIDC` `nginx` `Oracle Cloud`
-
-### ❤️ DeepGuard-AI — ECG Cardiac Diagnosis Platform
-Web and mobile platform detecting **6 cardiac conditions** from ECG signals (PTB-XL, MIT-BIH).
-- Compared CNN, LSTM and hybrid **CNN+LSTM** against SVM, Random Forest and KNN — the hybrid model won
-- FastAPI backend with real-time ECG streaming over **WebSocket**, consumed by React and Flutter clients
-- Multilingual medical chatbot (FR/EN/AR) powered by **RAG**, plus downloadable PDF reports
-
-`Python` `PyTorch` `scikit-learn` `FastAPI` `React` `Flutter`
-
-### 📈 Real-Time Sentiment Analysis of Amazon Reviews — Big Data
-Streaming pipeline processing **~500,000 reviews** through a multi-broker **Kafka** cluster and **Spark Streaming**.
-- Lemmatization + TF-IDF, 3-class sentiment models tuned in Spark MLlib
-- Predictions stored in MongoDB with live and offline dashboards
-- Fully containerized with Docker
-
-`Kafka` `ZooKeeper` `PySpark` `MLlib` `MongoDB` `Docker` `Flask`
-
-### 🩺 Oncology Medical Assistant — NLP / RAG Pipeline
-Preprocessing and indexing pipeline for an oncology RAG assistant tailored to the Moroccan context.
-- French/Arabic text normalization and dataset validation
-- **Hybrid retrieval**: multilingual Sentence-BERT embeddings in FAISS + BM25 lexical index
-- Quality checks with top-1 self-retrieval and pytest
-
-`Python` `Sentence-Transformers` `FAISS` `BM25` `pytest`
-
-### 📱 Mobile Apps
-| App | Description | Stack |
-|---|---|---|
-| **Pockito** | Personal finance app — expenses, debts, savings goals, cloud sync | Flutter · Bloc · Firebase |
-| **Kaysaria** | Moroccan classified-ads marketplace with search & filters by city/category | Flutter · Bloc · Firebase |
-| **Kitempu** | Weather app for Corsica with maps, geolocation, push alerts & AdMob | Flutter · Google Maps · AdMob |
-| **Depotcamp** | Vehicle storage app with instant buyout, live chat & admin back office | Flutter · REST · Push |
-| **Bienestar360** | Mental health app with depression assessment tools & community features | Flutter · Bloc · SQLite |
-| **Connexus** | Social network with profiles, posts and media sharing | Flutter · Bloc · Firebase |
-
----
-
 ## 💼 Experience
 
 | Role | Company | Period |
